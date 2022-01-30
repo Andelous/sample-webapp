@@ -1,2 +1,5 @@
-# sample-webapp
-Repository used for workshop given at work.
+# Sample webapp
+
+Repository used for workshop.
+
+
