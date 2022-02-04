@@ -21,7 +21,7 @@
 
         <hr>
 
-        <p>Mi nombre aparecer&aacute; aqu&iacute;: <strong><code>Change me :)</code></strong></p>
+        <p>Mi nombre aparecer&aacute; aqu&iacute;: <strong><code>Angel Alonso</code></strong></p>
     </div>
 
     <script src="js/bootstrap.bundle.min.js"></script>
